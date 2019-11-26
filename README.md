@@ -1,5 +1,5 @@
 # GeekyBlogger
-GeekBlogger is a static web page generator for blogging. You provide the text and some images. Run the script. Push the generated pages to the repo. 
+GeekBlogger is a static web page generator for blogging. You provide the text and some images. Run the script. Push the generated pages to the repo. Here is the example of my blog page: [https://kabylkas.github.io/blog/](https://kabylkas.github.io/blog/)
 
 I like spending some time to pour out my thoughts and projects to paper. Thoughts are abstract. Writing allows to serialize the thoughts. Also, suprisingly, I found that some of my writings were beneficial to some people. So why not?
 
